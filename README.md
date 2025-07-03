@@ -57,7 +57,7 @@
 <h3 align="left">🌐 Connect With Me</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[YOUR-LINK-HERE](https://www.linkedin.com/in/pleasant-chukwuderah-327149183/)" target="_blank">
+  <a href="https://www.linkedin.com/in/pleasant-chukwuderah-327149183/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </p>
