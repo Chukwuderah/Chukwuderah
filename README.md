@@ -1,26 +1,25 @@
-<h1 align="left">Hey, I’m Pleasant 👋</h1>
+<h1 align="left">Hi, I’m Pleasant</h1>
 
 ###
 
 <p align="left">
-  I’m a Frontend Developer/Engineer based in Lagos, Nigeria — building sleek, performant, and user-obsessed interfaces. <br><br>
-  I don’t just build interfaces — I build futures.<br><br>
-  My mission? To bring seamless, futuristic experiences to life using elite frontend architecture, clean code, and design thinking.<br><br>
-  Whether it's a side project or a startup MVP, I craft elegant solutions to complex problems — one line of code at a time.
+  Software Engineer based in Lagos, Nigeria, focused on frontend development and building performant, user-centered interfaces.
+
+I work across the frontend stack to deliver clean, scalable, and well-architected solutions, from side projects to startup MVPs.
 </p>
 
 ---
 
-<h3 align="left">🧠 What I’m up to</h3>
+<h3 align="left">What I’m up to</h3>
 
-- 🔭 Currently building beautiful frontends with **React**, **Next.js**, and **TypeScript**
-- 📚 Learning advanced frontend architecture + performance optimization
-- 🛠 Crafting pixel-perfect UIs with **TailwindCSS** & **Figma**
-- ⚡ Always down to collab on meaningful projects that push the envelope
+- Building frontends with React, Next.js, and TypeScript
+- Studying advanced frontend architecture and performance optimization
+- Developing interfaces with TailwindCSS and Figma
+- Open to collaborating on meaningful, well-scoped projects
 
 ---
 
-<h3 align="left">🛠 Tech Stack & Tools</h3>
+<h3 align="left">Tech Stack & Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
@@ -54,7 +53,7 @@
 
 ---
 
-<h3 align="left">🌐 Connect With Me</h3>
+<h3 align="left">Connect With Me</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pleasant-chukwuderah-327149183/" target="_blank">
